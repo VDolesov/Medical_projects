@@ -127,3 +127,5 @@ http://localhost:5000/api-docs
 - Валидация данных
 - Мониторинг производительности
 
+<img src="https://github.com/user-attachments/assets/fedeea99-b9d2-470d-b905-63922fe97146" width="250">
+<img src="https://github.com/user-attachments/assets/c4b41d48-ba25-4953-979c-e696a55603fb" width="250">
