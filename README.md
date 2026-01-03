@@ -3,7 +3,6 @@
 <img src="https://github.com/user-attachments/assets/a5f2f9f5-3a1d-42cc-a8dc-79874baf48f0" width="250" alt="Экран входа">
 <img src="https://github.com/user-attachments/assets/e7795e98-671e-4dde-ac51-be4e70458de2" width="250" alt="Главная страница">
 <img src="https://github.com/user-attachments/assets/e78c01ea-0c50-4b0b-bf95-7dbe1b3989b4" width="250" alt="Профиль пользователя">
-<img src="https://github.com/user-attachments/assets/abf43d29-295f-46ed-84c1-07107456ff15" width="250" alt="Управление нормами">
 
 Полнофункциональное медицинское приложение для анализа данных пациентов с заболеваниями щитовидной железы. Включает мобильное приложение на Flutter и REST API на Node.js с PostgreSQL базой данных.
 
