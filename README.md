@@ -1,12 +1,11 @@
 # 🏥 Медицинское приложение для анализа данных пациентов
 
-<img src="https://github.com/user-attachments/assets/a5f2f9f5-3a1d-42cc-a8dc-79874baf48f0" width="300" alt="Экран входа">
-<img src="https://github.com/user-attachments/assets/e7795e98-671e-4dde-ac51-be4e70458de2" width="300" alt="Главная страница">
-<img src="https://github.com/user-attachments/assets/732cbdcb-2d7e-4f1d-b1d2-1a2f2e1c1aad" width="300" alt="Загрузка анализов">
-<br>
-<img src="https://github.com/user-attachments/assets/46324bea-1f6f-400a-8b54-1746d23ae9f7" width="300" alt="Детальный отчет">
-<img src="https://github.com/user-attachments/assets/abf43d29-295f-46ed-84c1-07107456ff15" width="300" alt="Управление нормами">
-<img src="https://github.com/user-attachments/assets/e78c01ea-0c50-4b0b-bf95-7dbe1b3989b4" width="300" alt="Профиль пользователя">
+<img src="https://github.com/user-attachments/assets/a5f2f9f5-3a1d-42cc-a8dc-79874baf48f0" width="250" alt="Экран входа">
+<img src="https://github.com/user-attachments/assets/e7795e98-671e-4dde-ac51-be4e70458de2" width="250" alt="Главная страница">
+<img src="https://github.com/user-attachments/assets/e78c01ea-0c50-4b0b-bf95-7dbe1b3989b4" width="250" alt="Профиль пользователя">
+<img src="https://github.com/user-attachments/assets/732cbdcb-2d7e-4f1d-b1d2-1a2f2e1c1aad" width="250" alt="Загрузка анализов">
+<img src="https://github.com/user-attachments/assets/abf43d29-295f-46ed-84c1-07107456ff15" width="250" alt="Управление нормами">
+<img src="https://github.com/user-attachments/assets/46324bea-1f6f-400a-8b54-1746d23ae9f7" width="250" alt="Детальный отчет">
 
 Полнофункциональное медицинское приложение для анализа данных пациентов с заболеваниями щитовидной железы. Включает мобильное приложение на Flutter и REST API на Node.js с PostgreSQL базой данных.
 
