@@ -1,13 +1,25 @@
 # 🏥 Медицинское приложение для анализа данных пациентов
 
-<img width="1440" height="3120" alt="Screenshot_20260103_102023" src="https://github.com/user-attachments/assets/a5f2f9f5-3a1d-42cc-a8dc-79874baf48f0" />
-<img width="1440" height="3120" alt="Screenshot_20260103_101815" src="https://github.com/user-attachments/assets/e7795e98-671e-4dde-ac51-be4e70458de2" />
-<img width="1440" height="3120" alt="Screenshot_20260103_101717" src="https://github.com/user-attachments/assets/732cbdcb-2d7e-4f1d-b1d2-1a2f2e1c1aad" />
-<img width="1440" height="3120" alt="Screenshot_20260103_101708" src="https://github.com/user-attachments/assets/46324bea-1f6f-400a-8b54-1746d23ae9f7" />
-<img width="1440" height="3120" alt="Screenshot_20260103_101049" src="https://github.com/user-attachments/assets/abf43d29-295f-46ed-84c1-07107456ff15" />
-<img width="1440" height="3120" alt="Screenshot_20260103_100848" src="https://github.com/user-attachments/assets/e78c01ea-0c50-4b0b-bf95-7dbe1b3989b4" />
-<img width="1440" height="3120" alt="Screenshot_20260103_100743" src="https://github.com/user-attachments/assets/4dcf5c76-1b01-4e09-b5ce-c791a68c944e" />
+### Экран входа
+![Экран входа](https://github.com/user-attachments/assets/a5f2f9f5-3a1d-42cc-a8dc-79874baf48f0)
 
+### Главная страница
+![Главная страница](https://github.com/user-attachments/assets/e7795e98-671e-4dde-ac51-be4e70458de2)
+
+### Загрузка анализов
+![Загрузка анализов](https://github.com/user-attachments/assets/732cbdcb-2d7e-4f1d-b1d2-1a2f2e1c1aad)
+
+### Детальный отчет
+![Детальный отчет](https://github.com/user-attachments/assets/46324bea-1f6f-400a-8b54-1746d23ae9f7)
+
+### Управление нормами
+![Управление нормами](https://github.com/user-attachments/assets/abf43d29-295f-46ed-84c1-07107456ff15)
+
+### Профиль пользователя
+![Профиль пользователя](https://github.com/user-attachments/assets/e78c01ea-0c50-4b0b-bf95-7dbe1b3989b4)
+
+### Статистика
+![Статистика](https://github.com/user-attachments/assets/4dcf5c76-1b01-4e09-b5ce-c791a68c944e)
 
 Полнофункциональное медицинское приложение для анализа данных пациентов с заболеваниями щитовидной железы. Включает мобильное приложение на Flutter и REST API на Node.js с PostgreSQL базой данных.
 
